@@ -1,10 +1,9 @@
 # 🚀 Fluxutility — Simple & Fast Nuker Utility Tool
 
 Welcome to **FluxUtility** — a lightweight and fast console tool that adds useful features for Discord users.
-
 The project is 100% free and open-source.
 
---
+---
 
 ## 📥 Installation
 
@@ -20,4 +19,5 @@ The installer itself:
 - copies the files,
 - prepares the environment for the tool to run.
 
---
+---
+
