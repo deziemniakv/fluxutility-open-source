@@ -21,3 +21,6 @@ The installer itself:
 
 ---
 
+## Preview
+
+![image](https://media.discordapp.net/attachments/1233480912814080211/1442163809946173440/image.png?ex=69246f36&is=69231db6&hm=25b7c6156ab899507f752561319aa617f0eaaa23c7630622e9d1f856eda3fcd1&=&format=webp&quality=lossless)
