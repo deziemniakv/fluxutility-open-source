@@ -73,7 +73,7 @@ class Vexar:
   `|  |_)  |     |'\  '-'(_ .'/  .'.  \ \  '-'(_ .'   |  |   |     |' |  |'->   |  |    `-/   /`  
    `--'    `-----'  `-----'  `--'   '--' `-----'      `--'   `-----'  `--'      `--'      `--'   
         
-> [https://fluxutility.vercel.app]      - Made by ziemniakek -      [https://dsc.gg/fluxutility] <     
+> [https://fluxutility-web.vercel.app]      - Made by ziemniakek -      [https://dsc.gg/fluxutility] <     
 
 '''
         print(Colorate.Vertical(Colors.white_to_black, banner_text))
